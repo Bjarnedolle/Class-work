@@ -1,13 +1,19 @@
 #include <stdio.h>
 
-int Control(int altitude) {
+int Control(int altitude) 
+{
   int thruster = 0;
 
-if (altitude > 100) {
+if (altitude > 100) 
+{
   thruster = 0;
-} else if (altitude <= 100 && altitude > 0) {
+} 
+else if (altitude <= 100 && altitude > 0) 
+{
   thruster = 1;
-} else {
+} 
+else 
+{
   thruster = 0;
 }
 
