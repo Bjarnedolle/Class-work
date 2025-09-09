@@ -1,3 +1,5 @@
+Lunar Lander
+
 Jeg har opsat filen launch.json for at aktivere vores debugger, samt taks.json så jeg kan run og build i vores progam.
 Udover dette har jeg vores main.c, vores root source file, som er den grundlæggende fil.
 For at løse problemstillingen af at skulle aktivere thrusterne i forskellige altitudes, har jeg benyttet et if else if system, samt vedhæftet et flowchart der beskriver dens sammenhæng.
